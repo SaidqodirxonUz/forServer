@@ -82,7 +82,7 @@
 
 # _Keyingi bosqich_
 
-> Ubuntu serverlariga loyihani yuklash deyarli bir xil xoxlasangiz WinSCP orqali . Bu qismlar bilan [Amazon](https://github.com/SaidqodirxonUz/forServer/amazon) manzilda tanishishingiz mumkin
+> Ubuntu serverlariga loyihani yuklash deyarli bir xil xoxlasangiz WinSCP orqali . Bu qismlar bilan [Amazon](https://github.com/SaidqodirxonUz/forServer/blob/master/amazon/README.md) manzilda tanishishingiz mumkin
 
 <hr>
 <hr>
