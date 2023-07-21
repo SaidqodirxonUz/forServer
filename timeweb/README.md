@@ -5,11 +5,10 @@
 1. **Timeweb** saytidan hisob(аккаунт) yaratish
 2. **Timeweb** hisobimiz(аккаунт) -ni QIWI orqali to'ldirish
 3. **Ubuntu** server olish
-4. **PuTTY** orqali serverga bog'lanish
-5. **WinSCP** orqali serverga bog'lanish
-6. **Loyiha** - ni yuklash va Serverni Sozlash
+4. **WinSCP** orqali serverga bog'lanish
+5. **Loyiha** - ni yuklash va Serverni Sozlash
    - **Loyiha** - ni server uchun tayyorlash.
-   - **PuTTY** va **WinSCP** orali loyihani serverga yuklash.
+   - **WinSCP** orqali loyihani serverga yuklash.
 
 <hr>
 <hr>
